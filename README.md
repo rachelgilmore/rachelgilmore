@@ -3,9 +3,9 @@
 📍 Universitätsklinikum Heidelberg, Institut für Humangenetik, Heidelberg, Germany \
 🎓 Recent PhD graduate from Dr. Justin Cotney's lab (@cotneylab) \
 👩🏼‍🎓 PhD in Biomedical Science | UConn Health, Farmington, CT \
-🧠🧬🔬🧫💻 I study a rare, neurodevelopmental disorder called Prader-Willi Syndrome (PWS) using human embryonic stem cell (hESC) models/hESC-derived neuron models and computational approaches. \
+🧠🧬🔬🧫💻 I study a rare, neurodevelopmental disorders using human embryonic stem cell (hESC) & hESC-derived neuron models, animal models, and computational approaches. \
 📫 Please feel free to reach out with any questions to rachel.gilmore@med.uni-heidelberg.de \
-🔗 cotney.research.uchc.edu
+
 
 <!---
 rachelgilmore/rachelgilmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
