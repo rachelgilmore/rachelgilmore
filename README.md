@@ -4,7 +4,7 @@
 🎓 Recent PhD graduate from Dr. Justin Cotney's lab (@cotneylab) \
 👩🏼‍🎓 PhD in Biomedical Science | UConn Health, Farmington, CT \
 🧠🧬🔬🧫💻 I study a rare, neurodevelopmental disorder called Prader-Willi Syndrome (PWS) using human embryonic stem cell (hESC) models/hESC-derived neuron models and computational approaches. \
-📫 Please feel free to reach out with any questions to rgilmore@uchc.edu \
+📫 Please feel free to reach out with any questions to rachel.gilmore@med.uni-heidelberg.de \
 🔗 cotney.research.uchc.edu
 
 <!---
